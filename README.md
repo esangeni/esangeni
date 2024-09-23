@@ -19,9 +19,9 @@ My name is Eudald Sangenis, and I'm from Girona, Spain. I hold an M.S. degree in
 ## Publications
 
 
-- Jao, Chi-Shih, Danmeng Wang, Changwei Chen, **Eudald Sangenis**, Joe Grasso, Solmaz S. Kia, and Andrei M. Shkel. "Augmented UWB-ZUPT-SLAM utilizing multi-sensor fusion." *IEEE Journal of Indoor and Seamless Positioning and Navigation*, 2023.
-- Jao, Chi-Shih, **Eudald Sangenis**, Paula Simo, Alexandra Voloshina, and Andrei M. Shkel. "An inverted pendulum model of walking for predicting navigation uncertainty of pedestrian in case of foot-mounted inertial sensors." *2023 IEEE International Symposium on Inertial Sensors and Systems (INERTIAL)*, pp. 1-4, IEEE, 2023.
-- **Sangenis, Eudald**, Chi-Shih Jao, and Andrei M. Shkel. "SVM-based Motion Classification Using Foot-mounted IMU for ZUPT-aided INS." *2022 IEEE Sensors*, pp. 1-4, IEEE, 2022.
+- Jao, Chi-Shih, Danmeng Wang, Changwei Chen, **Eudald Sangenis**, Joe Grasso, Solmaz S. Kia, and Andrei M. Shkel. <u>"Augmented UWB-ZUPT-SLAM utilizing multi-sensor fusion."</u> *IEEE Journal of Indoor and Seamless Positioning and Navigation*, 2023.
+- Jao, Chi-Shih, **Eudald Sangenis**, Paula Simo, Alexandra Voloshina, and Andrei M. Shkel. <u>"An inverted pendulum model of walking for predicting navigation uncertainty of pedestrian in case of foot-mounted inertial sensors."</u> *2023 IEEE International Symposium on Inertial Sensors and Systems (INERTIAL)*, pp. 1-4, IEEE, 2023.
+- **Sangenis, Eudald**, Chi-Shih Jao, and Andrei M. Shkel. <u>"SVM-based Motion Classification Using Foot-mounted IMU for ZUPT-aided INS."</u> *2022 IEEE Sensors*, pp. 1-4, IEEE, 2022.
 
 ## Master's Thesis
 
