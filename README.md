@@ -1,6 +1,8 @@
-# Hi there! 👋 I'm Eudald Sangenis!
+# Hi there! 👋 
 
-🔬 I'm a PhD candidate in Mechanical & Aerospace Engineering at UC Irvine, California.  
+My name is Eudald Sangenis, and I'm from Girona, Spain. I hold an M.S. degree in the Mechanical and Aerospace Engineering Department from UCI (University of California, Irvine), and a Bachelor's degree in Industrial Electronics and Automatic Control Engineering from UPC (Universitat Politècnica de Catalunya).
+
+🔬 Right now, I'm a PhD candidate in Mechanical & Aerospace Engineering at UC Irvine, California.  
 📚 My research focuses on **indoor localization algorithms**, **AR headsets**, and **pedestrian path planning** for indoor environments.  
 🛠 My expertise lies in **pedestrian indoor navigation**, **inertial navigation**, and **pedestrian path planning algorithms**. I'm also passionate about **far-target detection of points of interest in indoor spaces**, and creating **immersive AR/VR mixed reality experiences**.
 
