@@ -6,13 +6,12 @@
 
 ## My Research Projects
 
-### **NEVERLOST**
-I'm currently conducting research at UC Irvine, funded by NIST. The goal of the **NEVERLOST** project is to develop an indoor navigation system akin to "Google Maps" for environments where GNSS is unavailable, such as during firefighting operations. My research focuses on:
-- **Pedestrian indoor localization** using advanced algorithms.
-- **Far-target detection** for identifying points of interest in indoor spaces for location-based services.
-- **Indoor pedestrian path planning**.
-- **Mixed Reality (MR) integration** with AR headsets to enhance user experiences.
+**NEVERLOST** is a three-year project funded by the **National Institute of Standards and Technology (NIST)**, aimed at developing an indoor navigation platform for firefighters—similar to "Google Maps" but designed for environments where GNSS is unavailable. My research focuses on:
 
+- **Pedestrian Indoor Localization:** Implementing advanced algorithms to accurately determine the location of individuals indoors.
+- **Far-Target Detection:** Identifying points of interest in indoor spaces for location-based services.
+- **Indoor Pedestrian Path Planning:** Optimizing routes within indoor environments to enhance operational efficiency for firefighters.
+- **Mixed Reality (MR) Integration:** Utilizing AR headsets to guide pedestrians indoors, creating a comprehensive navigation platform that supports real-time navigation.
 📽️ [**Watch a demo video of the project here**](https://youtu.be/K1rpk-_WLYg?si=BvgWRj3xu7XpNwHG).
 
 ## Publications
