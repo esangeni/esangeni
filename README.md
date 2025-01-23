@@ -18,7 +18,9 @@ My name is Eudald Sangenis, and I'm from Girona, Spain. I hold an M.S. degree in
 
 ## Publications
 
-
+- CORNELLA, GUILLEM, **EUDALD SANGENIS**, MEHDI OUSMER, Jean Vanderdonckt, Santiago Villarreal Narvaez, Bruno Dumas, and ADRIEN CHAFFANGEON CAILLET. "TapStrapGest: Elicitation and Recognition for Ring-based Multi-Finger Gestures." Proceedings of the ACM on Human-Computer Interaction (2025).
+- **Sangenis, Eudald**, and Andrei M. Shkel. "Fast-Alignment of AR Headset from Local to Geodetic Coordinate Frame for Navigation and Mixed Reality Applications." IEEE Sensors Letters (2025).
+- **Sangenis, Eudald**, Chi-Shih Jao, Crystal Wai, and Andrei M. Shkel. "Far-Target Detection System for Outdoor and Indoor Environments." IEEE Sensors Letters (2024).
 - Jao, Chi-Shih, Danmeng Wang, Changwei Chen, **Eudald Sangenis**, Joe Grasso, Solmaz S. Kia, and Andrei M. Shkel. <ins>"Augmented UWB-ZUPT-SLAM utilizing multi-sensor fusion."</ins> *IEEE Journal of Indoor and Seamless Positioning and Navigation*, 2023.
 - Jao, Chi-Shih, **Eudald Sangenis**, Paula Simo, Alexandra Voloshina, and Andrei M. Shkel. <ins>"An inverted pendulum model of walking for predicting navigation uncertainty of pedestrian in case of foot-mounted inertial sensors."</ins> *2023 IEEE International Symposium on Inertial Sensors and Systems (INERTIAL)*, pp. 1-4, IEEE, 2023.
 - **Sangenis, Eudald**, Chi-Shih Jao, and Andrei M. Shkel. <ins>"SVM-based Motion Classification Using Foot-mounted IMU for ZUPT-aided INS."</ins> *2022 IEEE Sensors*, pp. 1-4, IEEE, 2022.
