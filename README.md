@@ -18,6 +18,7 @@ My name is Eudald Sangenis, and I'm from Girona, Spain. I hold an M.S. degree in
 
 ## Publications
 
+- **Sangenis, Eudald**, Shkel, Andrei M., <ins>"NEVERLOST: Navigation Environment Merging Virtuality, Ecotone, and Reality for Localization Of SubjecTs,"</ins> 2025 IEEE/ION Position, Location and Navigation Symposium (PLANS), Salt Lake City, UT, April 2025, pp. 63-67.
 - **Sangenis, Eudald**, Chi-Shih Jao, and Andrei M. Shkel. <ins>"Effect of Adding Time Correlation to SVM-based Motion Classification in Pedestrian Navigation."</ins> in IEEE Journal of Indoor and Seamless Positioning and Navigation, vol. 3, pp. 32-42, 2025, doi: 10.1109/JISPIN.2025.3536396.
 - CORNELLA, GUILLEM, **EUDALD SANGENIS**, MEHDI OUSMER, Jean Vanderdonckt, Santiago Villarreal Narvaez, Bruno Dumas, and ADRIEN CHAFFANGEON CAILLET. <ins>"TapStrapGest: Elicitation and Recognition for Ring-based Multi-Finger Gestures."</ins> Proceedings of the ACM on Human-Computer Interaction (2025).
 - **Sangenis, Eudald**, and Andrei M. Shkel. <ins>"Fast-Alignment of AR Headset from Local to Geodetic Coordinate Frame for Navigation and Mixed Reality Applications."</ins> IEEE Sensors Letters (2025).
