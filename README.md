@@ -18,7 +18,7 @@ My name is Eudald Sangenis, and I'm from Girona, Spain. I hold an M.S. degree in
 
 ## Publications
 
-- **Sangenis, Eudald**, C. -S. Jao, D. Wang and A. M. Shkel, "Foot Velocity in Stance Phase Is Not Zero: Revisiting Velocity Updates for Foot-Mounted Inertial Navigation Systems," *IEEE Sensors Journal*, vol. 26, no. 3, pp. 5077-5085, 2026.
+- **Sangenis, Eudald**, C. -S. Jao, D. Wang and A. M. Shkel, <ins>"Foot Velocity in Stance Phase Is Not Zero: Revisiting Velocity Updates for Foot-Mounted Inertial Navigation Systems,"</ins> *IEEE Sensors Journal*, vol. 26, no. 3, pp. 5077-5085, 2026.
 - **Sangenis, Eudald**, Shkel, Andrei M., <ins>"NEVERLOST: Navigation Environment Merging Virtuality, Ecotone, and Reality for Localization Of SubjecTs,"</ins> *IEEE/ION Position, Location and Navigation Symposium (PLANS)*, Salt Lake City, UT, Apr. 28-1, 2025.
 - **Sangenis, Eudald**, Chi-Shih Jao, and Andrei M. Shkel. <ins>"Effect of Adding Time Correlation to SVM-based Motion Classification in Pedestrian Navigation."</ins> *IEEE Journal of Indoor and Seamless Positioning and Navigation (J-SPIN)*, vol. 3, pp. 32-42, 2025.
 - CORNELLA, GUILLEM, **EUDALD SANGENIS**, MEHDI OUSMER, Jean Vanderdonckt, Santiago Villarreal Narvaez, Bruno Dumas, and ADRIEN CHAFFANGEON CAILLET. <ins>"TapStrapGest: Elicitation and Recognition for Ring-based Multi-Finger Gestures."</ins> *Proceedings of the ACM on Human-Computer Interaction (PACMHCI)*, vol. 9, no. 4, pp. EICS001:1-27, 2025.
